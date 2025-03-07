@@ -3,6 +3,7 @@
     <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
         <servicesKeys>
             <keyDetails collectionKey="SalesforceCRMUpdate:getLoyaltyObjects" connectorServiceName="SalesforceCRMUpdate:getLoyaltyObjects"/>
+            <keyDetails collectionKey="SalesforceCRMUpdate:updateLoyaltyObjects" connectorServiceName="SalesforceCRMUpdate:updateLoyaltyObjects"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
 </services>
